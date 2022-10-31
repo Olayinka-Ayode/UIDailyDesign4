@@ -9,5 +9,5 @@ let arr = [basic, standard, premium];
 
 function makeActive(element) {
     element.classList.toggle('active');
-    alert('Ensure to fucking unclick before you click another 😭')
+    // alert('Ensure to fucking unclick before you click another 😭')
 }
